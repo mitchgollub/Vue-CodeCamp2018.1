@@ -1,0 +1,13 @@
+{
+  "name": "vue-with-routing-and-store-code-camp-20181",
+  "version": "1.0.0",
+  "description": "multiple components with routing, Vuex store,  for loops",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/w6vvrzz4vw",
+  "main": "index.js",
+  "dependencies": {
+    "vue": "latest",
+    "vue-router": "latest",
+    "vuex": "3.0.1"
+  }
+}
